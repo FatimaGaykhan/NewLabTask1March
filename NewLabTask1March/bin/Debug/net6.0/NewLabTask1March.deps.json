@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NewLabTask1March/1.0.0": {
+        "runtime": {
+          "NewLabTask1March.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewLabTask1March/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

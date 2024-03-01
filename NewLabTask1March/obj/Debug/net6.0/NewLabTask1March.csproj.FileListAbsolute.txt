@@ -1,0 +1,14 @@
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\bin\Debug\net6.0\NewLabTask1March.exe
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\bin\Debug\net6.0\NewLabTask1March.deps.json
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\bin\Debug\net6.0\NewLabTask1March.runtimeconfig.json
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\bin\Debug\net6.0\NewLabTask1March.dll
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\bin\Debug\net6.0\NewLabTask1March.pdb
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.AssemblyInfoInputs.cache
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.AssemblyInfo.cs
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.dll
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\refint\NewLabTask1March.dll
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.pdb
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\NewLabTask1March.genruntimeconfig.cache
+C:\Users\fatimaeg\Desktop\NewLabTask1March\NewLabTask1March\obj\Debug\net6.0\ref\NewLabTask1March.dll
